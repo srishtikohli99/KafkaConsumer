@@ -7,7 +7,7 @@ import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;
 import org.slf4j.Logger;
 
-@Component
+//@Component
 @Slf4j
 public class LibraryEventsConsumer {
 
